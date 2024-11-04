@@ -9,11 +9,16 @@ main{
     border: 2px solid black;
     padding: 5 px;
 }
+img{
+    width: 300px;height: 300px;
+    border-radius: 5px;
+    border: black 4px;
+}
 
 
 
 p{
-    background-color: white;
+    
     color: black;
 }
 danstyle{
